@@ -35,9 +35,6 @@ Loader Code Generation: Utilize the `-L` option to generate ready-to-compile loa
 ## To-Do
 - Fix IPV6 to work with all shellcodes
 
-## Contribution
-
-Feel free to contribute by opening issues or creating pull requests. Your feedback and improvements are highly appreciated!
 
 ## Disclaimer
 
